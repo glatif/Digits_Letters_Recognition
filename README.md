@@ -3,11 +3,16 @@
 
 ### How to execute:
 1. Download the Train and Test files of EMNIST dataset using the following links:
+   
 **Digits Dataset:**
-- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-digits-train.csv (From Kaggle, need to login to download)
-- Test Data: https://drive.google.com/file/d/1Ng9HK0wdx1CMEVnCWNVVdJ89CLeyfB1F/view?usp=sharing
+
+From Kaggle, need to log in to download the dataset files, you can  download only the desired file instead of downloading the whole dataset files:
+
+- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-digits-train.csv
+- Test Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-digits-test.csv
+  
 **Letters Dataset:**
-- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-letters-train.csv (From Kaggle, need to login to download)
+- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-letters-train.csv
 - Test Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-letters-test.csv
 
   
