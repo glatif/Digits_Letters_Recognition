@@ -3,9 +3,14 @@
 
 ### How to execute:
 1. Download the Train and Test files of EMNIST dataset using the following links:
-- Train Data: https://drive.google.com/file/d/1qGsjIhiDIC628GP4BFl7JxgC8f1GJwiA/view?usp=sharing
+**Digits Dataset:**
+- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-digits-train.csv (From Kaggle, need to login to download)
 - Test Data: https://drive.google.com/file/d/1Ng9HK0wdx1CMEVnCWNVVdJ89CLeyfB1F/view?usp=sharing
+**Letters Dataset:**
+- Train Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-letters-train.csv (From Kaggle, need to login to download)
+- Test Data: https://www.kaggle.com/datasets/crawford/emnist?select=emnist-letters-test.csv
 
+  
 2. Keep the same Files/Directory Structure.
 3. To Execute Digits Recognition run the file named: [wandb_ai]_Digits_Recognition_EMNIST.ipynb
 4. To Execute Letters Recognition run the file named: [wandb_ai]_Letters_Recognition_EMNIST.ipynb 
